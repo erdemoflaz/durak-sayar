@@ -7,5 +7,5 @@ Otobüs durağında bekleyen kişi sayısına göre gelen otobüsteki boş koltu
 # Kullanımı
 
 ```py
-    python face_detect_camerar.py
+    python face_detect_camera.py
 ```
